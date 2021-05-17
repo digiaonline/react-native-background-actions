@@ -1,3 +1,10 @@
+# [2.6.1](https://github.com/Rapsssito/react-native-background-actions/compare/v2.6.0...v2.6.1) (2021-05-17)
+
+
+### Features
+
+* **Android:** Add notification action buttons ([#60](https://github.com/Rapsssito/react-native-background-actions/issues/60))
+
 # [2.6.0](https://github.com/Rapsssito/react-native-background-actions/compare/v2.5.3...v2.6.0) (2021-03-14)
 
 
